@@ -41,15 +41,15 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">소개<span class="sr-only"></span></a></li>
-                <li><a href="#">강사진</a></li>
+                <li><a href="#">소개페이지 #1</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                       aria-expanded="false"> 강의
+                       aria-expanded="false"> 소개페이지 #2
                         <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">C언어</a></li>
-                        <li><a href="#">JAVA</a></li>
-                        <li><a href="#">Android</a></li>
+                        <li><a href="#">상세list #1</a></li>
+                        <li><a href="#">상세list #2</a></li>
+                        <li><a href="#">상세list #3</a></li>
                     </ul>
                 </li>
             </ul>
